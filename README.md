@@ -42,10 +42,10 @@
 ---
 
 <div align="center">
-  <h3>💻 My Coding Philosophy</h3>
-  <b>Code like nobody's watching. </b>
-  <b>Commit like it’s your last day. </b>
-  <b>Push and pray.</b>
+  <h1>💻 My Coding Philosophy</h1>
+  <h3>Code like nobody's watching.</h3>
+  <h3>Commit like it’s your last day.</h3>
+  <h3>Push and pray.</h3>
 </div>
 
 
